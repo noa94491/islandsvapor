@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+      <meta http-equiv="refresh" content="7; url='https://www.roblox.com/catalog/7084369791/Vapor-Donation-100'" />
+<h1>
+  Roblox Islands Vapor 
+  </h1>
+  
+  <p>
+    Redirecting to roblox... 
+  </p>
+  
+
+    <script src="script.js"></script>
+  </body>
+</html>

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+  <h1>
+  Roblox Islands Vapor 
+  </h1>
+  <h3>
+    Home Page
+  </h3>
+  <br>
+  <h4>
+    <a href = "premium"> Get Vapor Premium  </a>
+  </h4>
+  <h4>
+    <a href = "donations"> Donate To Vapor  </a>
+  </h4>
+  <h4>
+    <a href = "join"> Join Vapor  </a>
+  </h4>
+    <script src="script.js"></script>
+  </body>
+</html>

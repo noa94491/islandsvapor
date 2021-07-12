@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+     <h1>
+  Roblox Islands Vapor 
+  </h1>
+  <h3>
+    Join Vapor!
+  </h3>
+
+  <h4>
+  <a href = "group"> Join Our Roblox Group  </a>
+  </h4>
+
+  <h4>
+  <a href = "discord"> Join Our Discord Server [13+ ONLY] </a>
+  </h4>
+
+  <br>
+  <br>
+  <h4>
+  <a href = "home"> Back To Home  </a>
+  </h4>
+
+
+    <script src="script.js"></script>
+  </body>
+</html>
